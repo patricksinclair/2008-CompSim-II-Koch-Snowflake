@@ -1,0 +1,13 @@
+At 0 iterations,  the perimeter is 16.80 and the area is 13.5793.
+At 5 iterations,  the perimeter is 70.80 and the area is 21.5856.
+At 10 iterations,  the perimeter is 298.33 and the area is 21.7244.
+At 15 iterations,  the perimeter is 1257.16 and the area is 21.7268.
+At 20 iterations,  the perimeter is 5297.66 and the area is 21.7268.
+At 25 iterations,  the perimeter is 22324.29 and the area is 21.7268.
+At 30 iterations,  the perimeter is 94074.38 and the area is 21.7268.
+At 35 iterations,  the perimeter is 396428.68 and the area is 21.7268.
+At 40 iterations,  the perimeter is 1670547.18 and the area is 21.7268.
+At 45 iterations,  the perimeter is 7039672.07 and the area is 21.7268.
+At 50 iterations,  the perimeter is 29665120.18 and the area is 21.7268.
+At 55 iterations,  the perimeter is 125008572.29 and the area is 21.7268.
+At 56 iterations,  the perimeter is 166678096.39 and the area is 21.7268.
